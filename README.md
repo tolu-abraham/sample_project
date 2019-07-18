@@ -1,3 +1,3 @@
 # sample_project
-# created by: Tolu Abrahaham
+# created by: Tolu A
 # simple calculator under development
