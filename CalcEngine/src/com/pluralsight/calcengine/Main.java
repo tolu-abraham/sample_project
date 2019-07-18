@@ -25,11 +25,4 @@ public class Main {
 //
 //            return equation;
 
-// for(int a=0; a<arr.size(); a++){
-//        if (k == arr.get(a)){
-//        return "YES";
-//        }
-//        }
-//        return "NO";
-//        }
 
